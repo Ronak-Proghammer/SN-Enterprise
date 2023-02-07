@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="420mm" height="297mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 42000 29700"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#D9DADA}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <path d="M7530.06 6786.39l26939.87 0 0 16127.23 -26939.87 0 0 -16127.23z"/>
+   </clipPath>
+    <clipPath id="id1">
+     <path d="M7530.06 6786.39l26939.87 0 0 16127.23 -26939.87 0 0 -16127.23z"/>
+    </clipPath>
+    <clipPath id="id2">
+     <path d="M7530.06 6786.39l26939.87 0 0 16127.23 -26939.87 0 0 -16127.23z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0" points="7530.06,6786.39 34469.93,6786.39 34469.93,22913.62 7530.06,22913.62 "/>
+  <g style="clip-path:url(#id0)">
+   <g id="_2306778001440">
+   </g>
+   <g style="clip-path:url(#id1)">
+    <image x="7235.26" y="6786.38" width="27431.95" height="16127.23" xlink:href="View26_Images\View26_ImgID1.png"/>
+   </g>
+   <g style="clip-path:url(#id2)">
+   </g>
+  </g>
+  <polygon class="fil1" points="7530.06,6786.39 34469.93,6786.39 34469.93,22913.62 7530.06,22913.62 "/>
+ </g>
+</svg>
