@@ -30,7 +30,7 @@ class Header extends HTMLElement {
               <i class="bi bi-chevron-down dropdown-indicator"></i
             ></a>
             <ul>
-              <li><a href="/SN-Enterprise/products/tiles.html">Tiles</a></li>
+              <li><a href="/products/tiles.html">Tiles</a></li>
               <!-- <li class="dropdown">
                 <a href="#"
                   ><span>Deep Drop Down</span>
@@ -44,8 +44,8 @@ class Header extends HTMLElement {
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li> -->
-              <li><a href="/SN-Enterprise/products/ceramics.html">Ceramics</a></li>
-              <li><a href="sanitaryware.html">Sanitaryware</a></li>
+              <li><a href="/products/ceramics.html">Ceramics</a></li>
+              <li><a href="/products/sanitaryware.html">Sanitaryware</a></li>
             </ul>
           </li>
           <li><a href="#contact">Contact</a></li>
