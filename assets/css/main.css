@@ -1899,6 +1899,9 @@ embed > svg{
   flex: 0 45%;
   width: 100%;
   padding: 20px;
+  background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .product-category a {

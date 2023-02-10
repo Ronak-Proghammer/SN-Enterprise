@@ -1,6 +1,6 @@
 /**
 * Template Name: Yummy - v1.3.0
-* Template URL: https://bootstrapmade.com/yummy-bootstrap-restaurant-website-template/
+* Template URL: https://bootstrapmade.com-bootstrap-restaurant-website-template/
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */

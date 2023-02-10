@@ -8,7 +8,7 @@ class Header extends HTMLElement {
     <header id="header" class="header fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
       <a
-        href="/SN-Enterprise/index.html"
+        href="/index.html"
         class="logo d-flex align-items-center me-auto me-lg-0"
       >
         <!-- Uncomment the line below if you also wish to use an image logo -->
@@ -18,7 +18,7 @@ class Header extends HTMLElement {
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="/SN-Enterprise/index.html">Home</a></li>
+          <li><a href="/index.html">Home</a></li>
           <li><a href="#about">About</a></li>
           <li><a href="#menu">Menu</a></li>
           <li><a href="#events">Events</a></li>
@@ -30,22 +30,33 @@ class Header extends HTMLElement {
               <i class="bi bi-chevron-down dropdown-indicator"></i
             ></a>
             <ul>
-              <li><a href="/products/tiles.html">Tiles</a></li>
-              <!-- <li class="dropdown">
+               <li class="dropdown">
                 <a href="#"
-                  ><span>Deep Drop Down</span>
+                  ><span>Tiles</span>
                   <i class="bi bi-chevron-down dropdown-indicator"></i
                 ></a>
                 <ul>
-                  <li><a href="sample-inner-page.html">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
+                  <li><a href="/Exxaro/Exxaro_Tiles.html">Exxaro Tiles</a></li>
+                  <li><a href="/AGL/AGL_Tiles.html">AGL Tiles</a></li>
                 </ul>
-              </li> -->
-              <li><a href="/products/ceramics.html">Ceramics</a></li>
-              <li><a href="/products/sanitaryware.html">Sanitaryware</a></li>
+               <li class="dropdown">
+                <a href="#"
+                  ><span>CERA</span>
+                  <i class="bi bi-chevron-down dropdown-indicator"></i
+                ></a>
+                <ul>
+                  <li><a href="/Cera/ceramics.html">Ceramics</a></li>
+                  <li><a href="/Cera/sanitaryware.html">Sanitaryware</a></li>
+                </ul>
+               <li class="dropdown">
+                <a href="#"
+                  ><span>Roca</span>
+                  <i class="bi bi-chevron-down dropdown-indicator"></i
+                ></a>
+                <ul>
+                  <li><a href="/Roca/ceramics.html">Ceramics</a></li>
+                  <li><a href="/Roca/sanitaryware.html">Sanitaryware</a></li>
+                </ul>
             </ul>
           </li>
           <li><a href="#contact">Contact</a></li>
