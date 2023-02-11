@@ -6,7 +6,7 @@ class Header extends HTMLElement {
     this.innerHTML = `
     <header id="header" class="header fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
-    <a href="/index.html" class="logo"><img src="assets/homePageImg/snLogo.jpg" alt="" /></a>
+    <a href="/index.html" class="logo"><img src="/assets/homePageImg/snLogo.jpg" alt="" /></a>
     <!-- <a href="index.html" class="logo d-flex align-items-center me-auto me-lg-0">
       <img src="assets/img/snLogo.jpg" alt="" />
       <h1>SN Enterprise<span>.</span></h1> -->
