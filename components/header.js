@@ -2,43 +2,32 @@ class Header extends HTMLElement {
   constructor() {
     super();
   }
-
   connectedCallback() {
     this.innerHTML = `
     <header id="header" class="header fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
-      <a
-        href="/index.html"
-        class="logo d-flex align-items-center me-auto me-lg-0"
-      >
-        <!-- Uncomment the line below if you also wish to use an image logo -->
-        <img src="assets/img/logo.png" alt="" />
-        <h1>SN Enterprise<span>.</span></h1>
-      </a>
+    <a href="#" class="logo"><img src="assets/homePageImg/snLogo.jpg" alt="" /></a>
+    <!-- <a href="index.html" class="logo d-flex align-items-center me-auto me-lg-0">
+      <img src="assets/img/snLogo.jpg" alt="" />
+      <h1>SN Enterprise<span>.</span></h1> -->
+    </a>
 
       <nav id="navbar" class="navbar">
         <ul>
-          <li><a href="/index.html">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#menu">Menu</a></li>
-          <li><a href="#events">Events</a></li>
-          <li><a href="#chefs">Our Squad</a></li>
-          <li><a href="#gallery">Gallery</a></li>
+        <li><a href="/index.html#hero">Home</a></li>
+        <li><a href="/index.html#about">About</a></li>
+        <li><a href="/index.html#Suppliers">Suppliers</a></li>
+        <li><a href="/index.html#clients">Clients</a></li>
+        <li><a href="/index.html#chefs">Our Team</a></li>
+        <li><a href="/index.html#gallery">Gallery</a></li>
           <li class="dropdown">
             <a href="#"
               ><span>Our Products</span>
               <i class="bi bi-chevron-down dropdown-indicator"></i
             ></a>
             <ul>
-               <li class="dropdown">
-                <a href="#"
-                  ><span>Tiles</span>
-                  <i class="bi bi-chevron-down dropdown-indicator"></i
-                ></a>
-                <ul>
-                  <li><a href="/Exxaro/Exxaro_Tiles.html">Exxaro Tiles</a></li>
-                  <li><a href="/AGL/AGL_Tiles.html">AGL Tiles</a></li>
-                </ul>
+            <li><a href="/Exxaro/Exxaro_Tiles.html">Exxaro Tiles</a></li>
+            <li><a href="/AGL/AGL_Tiles.html">AGL Tiles</a></li>
                <li class="dropdown">
                 <a href="#"
                   ><span>CERA</span>
@@ -59,7 +48,7 @@ class Header extends HTMLElement {
                 </ul>
             </ul>
           </li>
-          <li><a href="#contact">Contact</a></li>
+          <li><a href="/index.html#contact">Contact</a></li>
         </ul>
       </nav>
       <!-- .navbar -->
