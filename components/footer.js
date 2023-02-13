@@ -45,7 +45,7 @@ class Footer extends HTMLElement {
           <div>
             <h4>Opening Hours</h4>
             <p>
-              <strong>Mon-Sat: 11AM</strong> - 23PM<br />
+              <strong>Mon-Sat:</strong> 09:00 AM - 08:00 PM<br />
               Sunday: Closed
             </p>
           </div>
