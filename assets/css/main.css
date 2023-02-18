@@ -266,6 +266,18 @@ section {
   }
 }
 
+@media screen and (max-width: 768px) {
+  .card{
+    width: 77% !important;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .card{
+    width: 90% !important;
+  }
+}
+
 /*--------------------------------------------------------------
 # Header
 --------------------------------------------------------------*/

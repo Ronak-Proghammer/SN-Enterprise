@@ -32,7 +32,7 @@ class Footer extends HTMLElement {
         <div class="col-lg-3 col-md-6 footer-links d-flex">
           <i class="bi bi-telephone icon"></i>
           <div>
-            <h4>Reservations</h4>
+            <h4>Get in Touch</h4>
             <p>
               <strong>Phone:</strong> +91 97278 89459<br />
               <strong>Email:</strong> nimeshshrey@gmail.com<br />
@@ -46,7 +46,7 @@ class Footer extends HTMLElement {
             <h4>Opening Hours</h4>
             <p>
               <strong>Mon-Sat:</strong> 09:00 AM - 08:00 PM<br />
-              Sunday: Closed
+              <strong>Sunday:</strong> Closed
             </p>
           </div>
         </div>
@@ -63,11 +63,7 @@ class Footer extends HTMLElement {
       </div>
     </div>
 
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>sntileworld</span></strong
-        >. All Rights Reserved
-      </div>
+   
       <div class="credits">
         <!-- All the links in the footer should remain intact. -->
         <!-- You can delete the links only if you purchased the pro version. -->
