@@ -13,7 +13,7 @@ class Footer extends HTMLElement {
           <div>
             <h4>Office Address</h4>
             <p>
-              Nr. Gota Crossroads, off S.G Highway, Ahmedabad, Gujarat - 382481
+              Nr. Gota Overbridge, S.G Highway, Gota, Ahmedabad, Gujarat - 382481
             </p>
           </div>
         </div>
